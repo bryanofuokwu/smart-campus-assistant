@@ -152,5 +152,3 @@ python main.py ml         # Predict course fit
 ```
 
 ---
-
-Built for education, built from scratch. Push it to GitHub and show the world what AI can do.

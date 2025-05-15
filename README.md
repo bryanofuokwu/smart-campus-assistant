@@ -50,5 +50,3 @@ smart-campus-assistant/
 ```
 
 ---
-
-Built for educational purposes. Push to GitHub and explore AI in action!
